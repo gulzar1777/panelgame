@@ -1,0 +1,7 @@
+C:\Users\ewez\Downloads\PanelCreate_Sessiz\PanelCreate\PanelCreate\bin\Debug\PanelCreate.exe.config
+C:\Users\ewez\Downloads\PanelCreate_Sessiz\PanelCreate\PanelCreate\bin\Debug\PanelCreate.exe
+C:\Users\ewez\Downloads\PanelCreate_Sessiz\PanelCreate\PanelCreate\bin\Debug\PanelCreate.pdb
+C:\Users\ewez\Downloads\PanelCreate_Sessiz\PanelCreate\PanelCreate\obj\Debug\PanelCreate.csproj.AssemblyReference.cache
+C:\Users\ewez\Downloads\PanelCreate_Sessiz\PanelCreate\PanelCreate\obj\Debug\PanelCreate.csproj.CoreCompileInputs.cache
+C:\Users\ewez\Downloads\PanelCreate_Sessiz\PanelCreate\PanelCreate\obj\Debug\PanelCreate.exe
+C:\Users\ewez\Downloads\PanelCreate_Sessiz\PanelCreate\PanelCreate\obj\Debug\PanelCreate.pdb
